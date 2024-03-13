@@ -4,7 +4,7 @@ title: "Escape"
 date: 2021-07-19
 categories: [HTB, medium]
 tags: [nmap, rustscan, crackmapexec, smbclient, ESC1-exploit, bloodhound-python, bloodhound, impacket-GetUserSPNs(Kerberoasting), kerberoasting, hashcat, hashcat-13100, impacket-psexec, oscp, oscp-windows]
-image: /assets/img/HTB/finish.png
+image: assets/img/HTB/pwn-escape.png 
 ---
 
 ```
