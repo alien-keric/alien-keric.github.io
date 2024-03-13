@@ -212,4 +212,4 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 [*] Trying to retrieve NT hash for 'administrator'
 [*] Got hash for 'administrator@sequel.htb': aad3b435b51404eeaad3b435b51404ee:a52f78e4c751e5f5e17e1e9f3e58f4ee
 ```
-![]![](/assets/img/HTB/easy/Active/finish.png)
+![](/assets/img/HTB/assets/img/HTB/Screenshot from 2024-03-12 17-25-04.png)
