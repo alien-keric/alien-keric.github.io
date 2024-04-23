@@ -13,8 +13,8 @@ CATEGORIES=false
 TAGS=false
 LASTMOD=false
 
-git config user.email "olendukaidavid26@gmail.com"
-git config user.name "blackninja23"
+git config user.email "alienkeric@gmail.com"
+git config user.name "alienkeric"
 
 WORK_DIR="$(dirname $(dirname $(realpath "$0")))"
 
